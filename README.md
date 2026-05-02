@@ -122,4 +122,4 @@ npm run dev
 
 ## 👨‍💻 Author
 
-NHBP GitHub: https://github.com/KalnaiWin
+NHBP GitHub: https://github.com/BPhuc246
